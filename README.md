@@ -48,7 +48,7 @@ Mantengo una identidad profesional coherente y en evolución entre mis canales d
 
 - 👔 **Perfil profesional en LinkedIn:** Pendiente.
 - 📄 **Curriculum Vitae Digital (PDF):** Pendiente.
-- 📧 **Correo institucional UTP:** [linkedin sofia-rodriguez-sec]www.linkedin.com/in/sofia-rodriguez-sec.
+- 📧 **Correo institucional UTP:** [linkedin sofia-rodriguez-sec](www.linkedin.com/in/sofia-rodriguez-sec).
 - 💻 **GitHub:** [sofia-rodriguez-sec](https://github.com/sofia-rodriguez-sec)
 
 ---
