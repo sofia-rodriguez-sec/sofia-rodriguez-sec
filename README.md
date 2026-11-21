@@ -47,7 +47,7 @@ Actualmente soy **mentora de la categoría Senior en Technovation Girls**, acomp
 Mantengo una identidad profesional coherente y en evolución entre mis canales digitales.
 
 - 👔 **Perfil profesional en LinkedIn:** [linkedin sofia-rodriguez-sec](www.linkedin.com/in/sofia-rodriguez-sec).
-- 📄 **Curriculum Vitae Digital (PDF):** [Descargar Curriculum Digital] 
+- 📄 **Curriculum Vitae Digital (PDF):** [Descargar Curriculum Digital](https://github.com/sofia-rodriguez-sec/sofia-rodriguez-sec/blob/main/Sof%C3%ADa%20Rodr%C3%ADguez%20CV.pdf)
 - 📧 **Correo institucional UTP:** [Sofía Rodríguez](sofia.rodriguez2@utp.ac.pa).
 - 💻 **GitHub:** [sofia-rodriguez-sec](https://github.com/sofia-rodriguez-sec).
 
